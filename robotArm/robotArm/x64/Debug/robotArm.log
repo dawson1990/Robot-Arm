@@ -1,0 +1,3 @@
+﻿  robotArm.cpp
+c:\users\kevin\google drive\college\year4\web dev\assignment\robotarm\robotarm\robotarm.cpp(36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  robotArm.vcxproj -> C:\Users\Kevin\Google Drive\college\Year4\Web Dev\Assignment\robotArm\x64\Debug\robotArm.exe
